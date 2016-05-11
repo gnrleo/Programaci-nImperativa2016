@@ -1,0 +1,14 @@
+Antío Leonardo
+
+RESPUESTAS:
+
+1- Un controlador de versiones sirve para gestionar el trabajo en conjunto de varios programadores sobre 
+un proyecto en común.
+
+2- Una función en C es un grupo de sentencias que sirven para realizar una tarea especifica.
+
+3- Datos: 
+Int: Entero
+Real: Float
+Char: Caracter
+String: Tipo cadena
